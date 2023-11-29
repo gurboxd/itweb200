@@ -1,0 +1,51 @@
+h1 {
+     font-family: 'Times New Roman', Times, serif;
+     font-size: 40px;
+     background-color: aqua;
+     text-align: center;
+}
+
+h2 {
+     font-size: 20px;
+     color: grey;
+     text-align: center;
+}
+nav {
+     display: flex;
+     padding: 10px 10px;
+     justify-content: center;  
+     gap: 20px;     
+}
+a:hover {
+     color:  red;
+}
+.home {
+      
+     display: flex;
+     width: 40%;
+     border-style: solid;
+     border-width: medium;
+     padding-left: 10px;
+     padding-right: 10px;
+     border-radius: 25px;
+     margin-top: 50px;
+}
+.home-two {
+     display: flex;
+     width: 40%;
+     border-style: ridge;
+     border-width: medium;
+     padding-left: 10px;
+     padding-right: 10px;
+     border-radius: 5px;
+     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     color: blue;
+     margin-top: -107px;
+     margin-left: 1100px;
+}
+img {
+     display: flex;
+     width: 500px;
+     justify-content: center;
+     
+}
